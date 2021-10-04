@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Travel
-https://h3.ustvgo.la/Travel/myStream/chunks.m3u8?nimblesessionid=80092007&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIxIDM6NTU6MzUgUE0maGFzaF92YWx1ZT05cXQ2VEFJaVpVdS9zdXVhaWRySDZRPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h4.ustvgo.la/Travel/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIxIDU6Mzg6MzcgUE0maGFzaF92YWx1ZT1rdllOZGRZbXlkUS9XbXVzQVNkZGd3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1,Investigation Discovery
+https://h1.ustvgo.la/ID/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIxIDU6MTU6MjkgUE0maGFzaF92YWx1ZT01YTY3b1o2SDdXS3hCVU9TREhqNkJ3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1,MTV
+https://h4.ustvgo.la/MTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIxIDU6MjE6NTAgUE0maGFzaF92YWx1ZT1MUFJPSDJVTmtpbWtiNHR0Tnl6MXZnPT0mdmFsaWRtaW51dGVzPTI0MA==
